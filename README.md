@@ -71,28 +71,6 @@ const abhishek = {
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 🏆 Featured Projects
-
-### 🏥 Healthcare App
-**Complete Healthcare Platform**
-- Built end-to-end healthcare solution connecting users to doctors, emergency services, diagnostics, and medicine delivery
-- Developed mobile app with Flutter, backend microservices with Node.js, and Neo4j database architecture
-- Managed cloud deployment with auto-scaling capabilities
-- Successfully published on both Play Store and App Store
-
-**Tech Stack:** Flutter, Node.js, Neo4j, Firebase, GCP
-
----
-
-### 🔐 Fintech Super App
-**Multi-Feature Social & Commerce Platform**
-- Enhanced app performance reducing load times and increasing user retention by 25%
-- Integrated social networking, marketplace, and payment features
-- Maintained consistent high ratings across app stores
-- Managed complete release cycles and version control
-
-**Tech Stack:** Flutter, Node.js, Payment Gateway Integration
-
 ## 📈 GitHub Stats
 
 <div align="center">
