@@ -28,11 +28,6 @@ const abhishek = {
         cloud: ["Google Cloud Platform", "CI/CD with GitHub Actions"],
         apis: ["REST", "gRPC", "Twilio", "Stream Chat"],
         payments: ["Razorpay", "Stripe", "Wise"]
-    },
-    achievements: {
-        latencyReduction: "35%",
-        reliabilityImprovement: "40%",
-        engagementBoost: "45%"
     }
 };
 ```
